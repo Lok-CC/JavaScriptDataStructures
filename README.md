@@ -2,13 +2,12 @@
  About JavaScript Data Structures and Algorithms
 
 1. Algorithm
-    a. Sorting Algorithm:
-        1. Bubble Sort
-        2. Selection Sort
-        3. Insertion Sort
-        4. Merge Sort
-        5. Quick Sort
-        6. Radix Sort
+    1. Bubble Sort
+    2. Selection Sort
+    3. Insertion Sort
+    4. Merge Sort
+    5. Quick Sort
+    6. Radix Sort
 
 2. Data Structure
     1. Singly Linked List
